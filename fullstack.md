@@ -1,5 +1,11 @@
 # Sistema de Biblioteca Digital Web
 
+## Projetos Base
+
+Laravel: https://github.com/cettufg/biblioteca-web-laravel
+
+NodeJS: https://github.com/cettufg/biblioteca-web-node
+
 ## Ideia
 O sistema deverá ter um sistema de autenticação (cadastro e registro) para usuários normais, o usuário poderá gerenciar obras publicadas, atribuindo relacionamento com registros já cadastrados (Instituição e Pesquisador), conforme modelo abaixo. 
 Obs: Busque utilizar o máximo do framework Quasar, agregando agilidade no desenvolvimento e padronização nos componentes do projeto.
