@@ -13,8 +13,9 @@ Inspirações e sugestão de layout: <a href="https://imgur.com/a/asgTifX" targe
 - [ ] Para o backend, é a livre a escolha do Laravel ou do Node (com o framework de sua escolha, como Express e Prisma, por exemplo ou um <a href="https://mockapi.io" target="_blank">mockAPI</a>.
 - [ ] O aplicativo deve ser totalmente responsivo e ter comportamento identicos nas plataformas Android e IOS, no sentido de usabilidade.
 
-## Template inicial do projeto (sugerido):
-Link: à ser disponibilizado.
+## Template inicial do projeto:
+
+Link: https://github.com/cettufg/biblioteca-app
 
 ## Entidades:
 ### Autor: 
